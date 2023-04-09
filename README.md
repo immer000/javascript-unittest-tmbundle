@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Elaborate Train and Predict mode docs arguments (#8137)
