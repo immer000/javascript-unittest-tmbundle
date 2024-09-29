@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Expand Model method type hinting (#8279)
